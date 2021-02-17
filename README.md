@@ -6,3 +6,4 @@ kaggle : titanic 공모전
 
 
 아
+d
